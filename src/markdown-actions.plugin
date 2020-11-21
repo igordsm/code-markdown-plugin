@@ -1,0 +1,10 @@
+[Plugin]
+Name=Markdown Actions
+Module=markdown-actions
+Loader=C
+IAge=2
+Description=Adds keyboard shortcuts for quick editing Markdown files2
+Icon=format-text-bold
+Authors=Igor Montagner <igordsm@gmail.com>
+Copyright=Copyright © 2020 Igor Montagner
+Hidden=false
