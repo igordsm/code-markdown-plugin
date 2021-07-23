@@ -4,9 +4,14 @@ This repository contains a plugin for elementary's [code editor](https://www.git
 
 ## Instructions
 
-TODO: list shortcuts here
+First activate the extension in `Settings-Preferences-Extensions-Markdown Actions`. Then the following shortcuts will be enabled when *Markdown* files are opened:
 
-TODO: add gifs for list edit mode
+1. `ctrl` `shift` `I` - italic
+2. `ctrl` `shift` `B` - bold
+3. `ctrl` `shift` `K` - create hyperlink
+
+
+There is also a list edit mode for 
 
 ## Install instructions
 

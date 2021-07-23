@@ -12,4 +12,6 @@ dependencies = [
     codecore_dep
 ]
 
+pluginsdir = join_paths(get_option('prefix'), get_option('libdir'), 'io.elementary.code', 'plugins')
+
 subdir('src')
